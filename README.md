@@ -25,6 +25,7 @@
 * Electronics Texts and Reference
   * [The Art of Electronics (3rd ed.).](https://www.amazon.com/dp/0521809266) Horowitz, P., Hill, W. (2015)
   * [Practical Electronics for Inventors (4th ed.).](https://www.amazon.com/dp/1259587541/) Scherz, P., Monk, S. (2016)
+  * [Ultra Librarian: PCB CAD Library](https://www.ultralibrarian.com/)
 
 * Online References and Catalogs
   * MISUMI [inCAD Library](https://us.misumi-ec.com/us/incadlibrary/), application library for mechanical engineers
@@ -37,6 +38,7 @@
   * Grizzly [Online Catalog (2020)](https://www.grizzly.com/catalog/2020/main), [Print Catalog Request](https://www.grizzly.com/forms/catalog-request)
   * Aircraft Spruce: [PDF](https://www.aircraftspruce.com/pdf/2021Individual/2021catalog.pdf), [Print Catalog Request](https://www.aircraftspruce.com/catalog/stpages/sprucecatalog.php)
   * Grainger: [Online](https://www.grainger.com/content/tf_onlinecat), [Print Catalog Request](https://www.grainger.com/content/cat_print)
+  * [Little Machine Shop: Tap and Clearance Hole Chart](https://littlemachineshop.com/images/gallery/PDF/TapDrillSizes.pdf)
 
 * Engineering, Technology, and Design Tales
   * [Skunk Works: A Personal Memoir of My Years at Lockheed.](https://www.amazon.com/dp/0316743003) Rich, B. R., & Janos, L. (1995).
