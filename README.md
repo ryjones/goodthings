@@ -12,6 +12,7 @@
   * [Handbook of Compliant Mechanisms.](https://www.amazon.com/dp/1119953456) Howell, L. L., Magleby, S. P., & Olsen, B. M. (Eds.). (2013).  
   * [Rules of Thumb for Mechanical Engineers.](https://www.amazon.com/dp/0884157903) Pope, J. E. (1996).
   * [Fastener Black Book.](https://www.amazon.com/dp/B00KC58Z3M) ([Inch Edition](https://www.amazon.com/dp/1921722444)) Rapp, P. (2007).
+  * [Machinery's Handbook (31st ed.).](https://www.amazon.com/dp/0831137312/) Oberg, E. (2020)
   
 * Other Engineering Texts and Reference
   * [The Way Things Work.](https://www.amazon.com/dp/0395428572) Macauley, D. (1988).
@@ -20,6 +21,10 @@
   * [Optimal Estimation of Dynamic Systems (2nd ed.).](https://www.amazon.com/dp/1439839859) Crassidis, J. L., & Junkins, J. L. (2011). 
   * [Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems (2nd ed.).](https://www.amazon.com/dp/1608070050) Groves, P. D. (2013).
   * [Modern Robotics: Mechanics, Planning, and Control.](https://www.amazon.com/dp/1107156300) Lynch, K. M., & Park, F. C. (2017). [Official Print PDF](http://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf), [Official Tablet PDF](http://hades.mech.northwestern.edu/images/0/0c/MR-tablet-v2.pdf)
+  
+* Electronics Texts and Reference
+  * [The Art of Electronics (3rd ed.).](https://www.amazon.com/dp/0521809266) Horowitz, P., Hill, W. (2015)
+  * [Practical Electronics for Inventors (4th ed.).](https://www.amazon.com/dp/1259587541/) Scherz, P., Monk, S. (2016)
 
 * Online References and Catalogs
   * MISUMI [inCAD Library](https://us.misumi-ec.com/us/incadlibrary/), application library for mechanical engineers
@@ -45,6 +50,7 @@
   * [The One Device: The Secret History of the iPhone.](https://www.amazon.com/dp/0316546240) Merchant, B. (2018).
   * [The Most Powerful Idea in the World: A Story of Steam, Industry, and Invention.](https://www.amazon.com/dp/0226726347) Rosen, W. (2012).
   * [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.amazon.com/dp/080271529X) Sobel, D. (2005).
+  * [The Boy Who Played with Fusion: Extreme Science, Extreme Parenting, and How to Make a Star](https://www.amazon.com/dp/0544705025) Clynes, T. (2016)
   
 * Tales of Romance, Courtroom Drama, Failure, and Success
   * [A Bad Case of Capitalism: An Autobiography.](https://www.amazon.com/dp/1792354703) Balolia, S. (2020).
