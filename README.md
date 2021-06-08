@@ -1,6 +1,8 @@
 ### YouTube Channels
 
 * [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ): A guy who makes stuff.
+* [The Efficient Engineer](https://youtube.com/c/TheEfficientEngineer): prefers one side of the Carnot cycle for his pillows
+* [Tarkka](https://www.youtube.com/c/tarkka/featured): “Tarkka” is the Finnish word for “exact”, but you knew that already
 
 ### SMH Reading List
 
