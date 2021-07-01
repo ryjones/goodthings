@@ -55,6 +55,7 @@
   * [The Most Powerful Idea in the World: A Story of Steam, Industry, and Invention.](https://www.amazon.com/dp/0226726347) Rosen, W. (2012).
   * [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.amazon.com/dp/080271529X) Sobel, D. (2005).
   * [The Boy Who Played with Fusion: Extreme Science, Extreme Parenting, and How to Make a Star](https://www.amazon.com/dp/0544705025) Clynes, T. (2016)
+  * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.amazon.com/dp/1732265119) Waldrop, M. (2018)
   
 * Tales of Romance, Courtroom Drama, Failure, and Success
   * [A Bad Case of Capitalism: An Autobiography.](https://www.amazon.com/dp/1792354703) Balolia, S. (2020).
@@ -69,4 +70,6 @@
   * [Hate Inc.: Why Today’s Media Makes Us Despise One Another.](https://www.amazon.com/dp/1682194078) Taibbi, M. (2019).
   * [Hitler: 1889-1936 Hubris.](https://www.amazon.com/dp/0393320359) Kershaw, I. (1999). 
   * [Hitler 1937-1945 Nemesis.](https://www.amazon.com/dp/0393322521) Kershaw, I. (2001).
-  
+  * [The Rise and Fall of American Growth](https://www.amazon.com/dp/069117580) Gordon, R. (2017).
+  * [The Emperor Of All Maladies](https://www.amazon.com/dp/1439170916) Mukherjee, S. (2011).
+  * [Chaos, Making a New Science](https://www.amazon.com/dp/0749386061) Gleick, J. (1996)  
