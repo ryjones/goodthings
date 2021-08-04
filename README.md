@@ -6,6 +6,9 @@
 
 ### SMH Reading List
 
+* Podcasts
+  * [Exponent, by Ben Thompson and James Allworth](https://exponent.fm/)
+  
 * Mechanical Engineering Texts and Reference
   * [Mechanisms and Mechanical Devices Sourcebook (5th ed.).](https://www.amazon.com/dp/0071704426) Sclater, N. (2011).
   * [Foundations of Mechanical Accuracy.](https://www.amazon.com/dp/B0006CAKT8) Moore, W. R. (1970).
