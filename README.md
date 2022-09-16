@@ -59,6 +59,7 @@
   * [Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time](https://www.amazon.com/dp/080271529X) Sobel, D. (2005).
   * [The Boy Who Played with Fusion: Extreme Science, Extreme Parenting, and How to Make a Star](https://www.amazon.com/dp/0544705025) Clynes, T. (2016)
   * [The Dream Machine: J.C.R. Licklider and the Revolution That Made Computing Personal](https://www.amazon.com/dp/1732265119) Waldrop, M. (2018)
+  * [The Singularity Is Near](https://www.amazon.com/dp/0143037889) Kurzweil, R. (2006) 
   
 * Tales of Romance, Courtroom Drama, Failure, and Success
   * [A Bad Case of Capitalism: An Autobiography.](https://www.amazon.com/dp/1792354703) Balolia, S. (2020).
